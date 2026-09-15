@@ -73,9 +73,11 @@ This project builds directly on prior work. To be explicit:
 The dataset itself is not redistributed here — see the SpectralWaste authors for access.
 
 ## Contents
+## Contents
 
-- `paper/` — the full write-up (PDF)
-- `notebooks/` — training and evaluation notebooks
+- `spectral-compression-waste-segmentation.pdf` — the full write-up
+
+The training and evaluation notebooks were run on Kaggle and are not archived here yet.
 
 ## Team
 
